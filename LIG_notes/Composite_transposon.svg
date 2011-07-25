@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon14, part of koffice: http://www.koffice.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="612.001pt" height="200.41pt">
+  <defs>
+  </defs>
+  <g id="defitem43">
+    <g id="g13074" transform="translate(162.658, 101.63)" fill="none">
+      <rect id="rect4336" transform="matrix(1.14535 0 0 1.14563 0.707021 0.707194)" fill="#0000ff" stroke="#000000" stroke-width="0.87299" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" width="311.172pt" height="17.6pt"/>
+      <g id="g13061" transform="translate(-60.064, -1.26013e-07)" fill="none">
+        <rect id="rect2386" transform="matrix(1.14535 0 0 1.14563 0.707021 0.707194)" fill="#ff0000" stroke="#000000" stroke-width="0.87299" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" width="8pt" height="17.6pt"/>
+        <rect id="rect3365" transform="matrix(1.14535 0 0 1.14563 12.2666 0.707194)" fill="#ffff00" stroke="#000000" stroke-width="0.87299" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" width="25.7751pt" height="17.6pt"/>
+        <rect id="rect13059" transform="matrix(1.14535 0 0 1.14563 49.2745 0.707194)" fill="#ff0000" stroke="#000000" stroke-width="0.87299" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" width="8pt" height="17.6pt"/>
+      </g>
+      <g id="g13066" transform="translate(445.636, -1.26013e-07)" fill="none">
+        <rect id="rect13068" transform="matrix(1.14535 0 0 1.14563 0.707021 0.707194)" fill="#ff0000" stroke="#000000" stroke-width="0.87299" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" width="8pt" height="17.6pt"/>
+        <rect id="rect13070" transform="matrix(1.14535 0 0 1.14563 12.2666 0.707194)" fill="#ffff00" stroke="#000000" stroke-width="0.87299" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" width="25.7751pt" height="17.6pt"/>
+        <rect id="rect13072" transform="matrix(1.14535 0 0 1.14563 49.2745 0.707194)" fill="#ff0000" stroke="#000000" stroke-width="0.87299" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" width="8pt" height="17.6pt"/>
+      </g>
+    </g>
+    <text id="text13085" fill="#000000" font-family="DejaVu Sans" font-size="12pt" font-weight="bold"       x="0pt" y="9.04688pt" transform="matrix(0.999881 0 0 1.00012 446.194 31.3893)">
+Structural genes    </text>
+    <text id="text13089" fill="#000000" font-family="DejaVu Sans" font-size="12pt" font-weight="bold"       x="0pt" y="9.04688pt" transform="matrix(0.999881 0 0 1.00012 10.2723 12.0089)">
+Transposition Genes    </text>
+    <text id="text13093" fill="#000000" font-family="DejaVu Sans" font-size="12pt" font-weight="bold"       x="0pt" y="9.04688pt" transform="matrix(0.999881 0 0 1.00012 188.594 43.7715)">
+Inverted Repeats    </text>
+    <text id="text13107" fill="#000000" font-family="DejaVu Sans" font-size="12pt" font-weight="bold"       x="0pt" y="9.04688pt" transform="matrix(0.999881 0 0 1.00012 341.466 231.896)">
+Inverted IS    </text>
+    <path id="path13115" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L0.25981 46.7797L0.25981 46.7797"  transform="translate(524.431, 63.1857)" />
+    <path id="path13117" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L0 11.2467L30.4281 21.3382L61.8816 11.2467L61.8816 0M507.663 0L507.663 11.2467L538.636 21.3382L569.545 11.2467L569.545 0M538.636 21.3382L538.636 25.074L285.852 84.1247L30.4281 25.074L30.4281 21.3382"  transform="translate(101.833, 137.562)" />
+    <path id="path13127" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 81.2159L70.8772 0"  transform="matrix(-1 0 0 1 143.132 28.9021)" />
+    <path id="path13127" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 41.4414L86.2777 0"  transform="translate(159.39, 61.4169)" />
+    <path id="path13127" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 42.4499L142.275 0"  transform="translate(107.908, 60.5137)" />
+  </g>
+</svg>

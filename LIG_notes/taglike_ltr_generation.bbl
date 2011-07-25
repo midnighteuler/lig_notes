@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{CoffinJMHughesSHVarmusHE1997}
+Editors. {Coffin JM, Hughes SH, Varmus HE}.
+\newblock {Genetic Organization}, 1997.
+
+\bibitem{Strawbridge2010}
+Eva~M Strawbridge, Gary Benson, Yevgeniy Gelfand, and Craig~J Benham.
+\newblock {The distribution of inverted repeat sequences in the Saccharomyces
+  cerevisiae genome.}
+\newblock {\em Current genetics}, pages 321--340, May 2010.
+
+\bibitem{Costello1995}
+E~Costello, R~Sahli, B~Hirt, and P~Beard.
+\newblock {The mismatched nucleotides in the 5'-terminal hairpin of minute
+  virus of mice are required for efficient viral DNA replication.}
+\newblock {\em Journal of virology}, 69(12):7489--96, December 1995.
+
+\bibitem{Weir1992}
+D~Weir.
+\newblock {A geometric hierarchy beyond context-free languages}.
+\newblock {\em Theoretical Computer Science}, 104(2):235--261, October 1992.
+
+\bibitem{Kallmeyer2010}
+Laura Kallmeyer.
+\newblock {\em {Parsing beyond context-free grammars}}.
+\newblock Cognitive Technologies. Springer Verlag, Berlin, Heidelberg, 2010.
+
+\bibitem{Sikkel1994}
+Klaas Sikkel.
+\newblock {How to compare the structure of parsing algorithms}.
+\newblock In {\em In: Pighizzini G., San Pietro P.(Eds.), Proc. ASMICS Workshop
+  on Parsing Theory}, pages 1--19. Citeseer, 1994.
+
+\bibitem{Sikkel1998}
+K~Sikkel.
+\newblock {Parsing schemata and correctness of parsing algorithms}.
+\newblock {\em Theoretical Computer Science}, 199(1-2):87--103, June 1998.
+
+\bibitem{Vijay-Shanker1993}
+K.~Vijay-Shanker and D.J. Weir.
+\newblock {Parsing some constrained grammar formalisms}.
+\newblock {\em Computational Linguistics}, 19(4):591--636, 1993.
+
+\bibitem{Durbin1998}
+R.~Durbin.
+\newblock {\em {Biological sequence analysis: Probabilistic models of proteins
+  and nucleic acids}}, volume~64.
+\newblock Cambridge Univ Pr, April 1998.
+
+\end{thebibliography}
