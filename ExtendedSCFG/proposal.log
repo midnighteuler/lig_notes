@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.5.25)  25 AUG 2011 13:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.5.25)  29 AUG 2011 12:47
 entering extended mode
  %&-line parsing enabled.
 **proposal.tex
@@ -272,62 +272,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--80
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--90
-
- []
-
-LaTeX Font Info:    Try loading font information for U+dsrom on input line 91.
+LaTeX Font Info:    Try loading font information for U+dsrom on input line 90.
 (/usr/share/texmf-texlive/tex/latex/doublestroke/Udsrom.fd
 File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
 ) [2]
-Underfull \hbox (badness 10000) in paragraph at lines 105--110
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--110
+Underfull \hbox (badness 10000) in paragraph at lines 111--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--110
+Underfull \hbox (badness 10000) in paragraph at lines 111--117
 
  []
 
-! Missing delimiter (. inserted).
-<to be read again> 
-                   $
-l.121 \]
-        
-I was expecting to see something like `(' or `\{' or
-`\}' here. If you typed, e.g., `{' instead of `\{', you
-should probably delete the `{' by typing `1' now, so that
-braces don't get unbalanced. Otherwise just proceed.
-Acceptable delimiters are characters whose \delcode is
-nonnegative, or you can use `\delimiter <delimiter code>'.
 
-! Extra \right.
-<to be read again> 
-                   $
-l.121 \]
-        
-I'm ignoring a \right that had no matching \left.
+Underfull \hbox (badness 10000) in paragraph at lines 122--130
+
+ []
+
+[3]
+Overfull \hbox (23.81776pt too wide) detected at line 158
+\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 i; j\OT1/cmr/m/n/1
+0.95 ) = []  [] (\OML/cmm/m/it/10.95 LHS\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95
+ C\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 c \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/
+it/10.95 k; k; M\OT1/cmr/m/n/10.95 )(\OML/cmm/m/it/10.95 RHS\OT1/cmr/m/n/10.95 
+)\OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 L \OMS/cmsy/m/n/1
+0.95 ! \OML/cmm/m/it/10.95 R[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M\OT1/cmr
+/m/n/10.95 ))\OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 X[]\O
+T1/cmr/m/n/10.95 [] \OMS/cmsy/m/n/10.95 ! \OML/cmm/m/it/10.95 M\OT1/cmr/m/n/10.
+95 )\OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 X\OT1/cmr/m/n/
+10.95 [\OML/cmm/m/it/10.95 ^^[\OT1/cmr/m/n/10.95 ] \OMS/cmsy/m/n/10.95 ! \OML/c
+mm/m/it/10.95 X[]\OT1/cmr/m/n/10.95 [\OML/cmm/m/it/10.95 ^^[\OT1/cmr/m/n/10.95 
+])[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
+
+ []
 
 (./proposal.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 125--1
-
- []
-
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [3] (./proposal.aux) ) 
+) [4] (./proposal.aux) ) 
 Here is how much of TeX's memory you used:
  2512 strings out of 495061
  32365 string characters out of 1182621
@@ -335,7 +328,7 @@ Here is how much of TeX's memory you used:
  5668 multiletter control sequences out of 15000+50000
  9997 words of font info for 38 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 27i,11n,20p,223b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,11n,20p,252b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
 m/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sha
@@ -350,9 +343,9 @@ onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/
 public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
 nts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/doublestroke/dsro
 m10.pfb>
-Output written on proposal.pdf (3 pages, 171707 bytes).
+Output written on proposal.pdf (4 pages, 179217 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
